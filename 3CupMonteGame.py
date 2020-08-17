@@ -35,3 +35,5 @@ guess = player_guess()
 
 # Check Guess
 check_guess(shuffled_list, guess)
+
+#Using git branch commands and branch checkout to commit changes
